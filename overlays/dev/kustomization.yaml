@@ -8,4 +8,4 @@ patches:
 commonLabels:
   happy: newyear
 
-namePrefix: dev-
+namePrefix: "dev-"
